@@ -133,4 +133,3 @@ https://movedemo3.azurewebsites.net/api/getmoviesummary/{title}
 * When testing locally, our functions worked fine. Once deployed to Azure there were some changes that need to be made. In my case, my CosmoDB credentials were not being read correctly.
 * Ensure your CosmoDB, Resource Groups, Function App and storage accounts are set up correctly with the right permissions
 * I would look to add onto this project and develop a website using the APIs in the future# Serverless-Movie-API
-# ServerlessAPIMovies
