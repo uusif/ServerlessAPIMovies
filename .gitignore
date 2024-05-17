@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+
+local.settings.json
+host.json
+__azurite_db_table__.json
+venv/
+__pycache__/
+host.json
+movieapi/
